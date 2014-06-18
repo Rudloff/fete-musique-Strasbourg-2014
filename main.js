@@ -38,7 +38,7 @@ function getCoords(data) {
 function init() {
     'use strict';
     $.getJSON('programme.json', getCoords);
-    map = L.map('map').setView([48.58243, 7.74761], 15);
+    map = L.map('map', { minZoom: 14 }).setView([48.58243, 7.74761], 15);
     L.tileLayer('https://carto.rudloff.pro/tiles/layers/background/{z}/{x}/{y}.png', {
         attribution: '&copy; <a target="_blank" href="http://osm.org/copyright">OpenStreetMap</a> contributors, <a target="_blank" href="https://carto.rudloff.pro/">CartoStras</a>, <a target="_blank" href="http://www.strasbourg.eu/actualites/-/asset_publisher/lG7u/content/programme-complet-de-la-fete-de-la-musique-2014">Communauté urbaine de Strasbourg</a>'
     }).addTo(map);
