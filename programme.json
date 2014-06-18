@@ -1,0 +1,932 @@
+[
+    {
+        "Scene": "scène Tête d'affiche",
+        "Lieu": "place Kleber",
+        "Début": "17h00",
+        "Fin": "18h00",
+        "Groupe": "Altesse Prune",
+        "Style": "pop rock",
+        "Lien d'écoute": "http://fr.myspace.com/altesseprune/ ",
+        "Description": "Groupe vainqueur du Tremplin 2013, Altesse Prune produit une musique aux tendances Rock, balayées par des mélodies troublantes, vaporeuses, lumineuses!"
+    },
+    {
+        "Scene": "scène Tête d'affiche",
+        "Lieu": "place Kleber",
+        "Début": "18h00",
+        "Fin": "19h00",
+        "Groupe": "Ernest",
+        "Style": "chanson ",
+        "Lien d'écoute": "http://www.ernestvonstras.com/#",
+        "Description": "Ernest et ses complices n’ont pas la prétention d’inventer. C’est sûrement parce que leurs influences majeures sont Andersen et Gainsbourg qu’ils se plaisent à faire cohabiter cynisme et onirisme dans une « chanson française d’autrefois » remise au goût du jour."
+    },
+    {
+        "Scene": "scène Tête d'affiche",
+        "Lieu": "place Kleber",
+        "Début": "19h00",
+        "Fin": "20h00",
+        "Groupe": "Léopldine Hummel",
+        "Style": "chanson ",
+        "Lien d'écoute": "http://leopoldinehh.fr/",
+        "Description": "Léopoldine HH. joue du piano, de l’accordéon, du ukulélé, de la mini-harpe de la wash board. Léopoldine HH. ne peut pas s’empêcher de rendre hommage à Michael Jackson et de chanter en allemand lorsqu’elle joue de la mini-harpe."
+    },
+    {
+        "Scene": "scène Tête d'affiche",
+        "Lieu": "place Kleber",
+        "Début": "20h00",
+        "Fin": "21h00",
+        "Groupe": "Matskat",
+        "Style": "Chanson française ",
+        "Lien d'écoute": "http://www.matskat.com/",
+        "Description": "Matskat c’est un antidépresseur sans les effets secondaires : que du bonheur ! Un chanteur musicien gentiment déjanté, l’esprit en ébullition et la voix nomade."
+    },
+    {
+        "Scene": "scène Tête d'affiche",
+        "Lieu": "place Kleber",
+        "Début": "21h00",
+        "Fin": "22h00",
+        "Groupe": "Natacha Andréani",
+        "Style": "variété ",
+        "Lien d'écoute": "http://www.natachaandreani.eu/",
+        "Description": "Révélé dans l'émission The Voice, cette jeune auteur-compositeur-interprète de 19 ans propose une musique entraînante et surtout qui vise à transmettre un message. "
+    },
+    {
+        "Scene": "scène Tête d'affiche",
+        "Lieu": "place Kleber",
+        "Début": "22h30",
+        "Fin": "00h00",
+        "Groupe": "Gérald De Palmas",
+        "Style": "pop rock",
+        "Lien d'écoute": "http://www.depalmas.net/",
+        "Description": "Auteur-compositeur-interprète pop rock français, Gérald De Palmas donnera un concert exceptionnel sur la place Kléber le 21 juin 2014. \nAprès 3 ans de tournée, Gérald De Palmas présente son 6e album sobrement intitulé De Palmas. "
+    },
+    {
+        "Scene": "scène Tête d'affiche",
+        "Lieu": "place Kleber",
+        "Début": "",
+        "Fin": "",
+        "Groupe": "Benjamin Bohem",
+        "Style": "chanson ",
+        "Lien d'écoute": "https://www.facebook.com/BenjaminBohem",
+        "Description": "Jeune auteur compositeur interprète, Benjamin Bohem est révélé dans l’émission de télécrochet Nouvelle Star, en 2010."
+    },
+    {
+        "Scene": "scène Jeunes Talents",
+        "Lieu": "Place de l'Etal",
+        "Début": "16h00",
+        "Fin": "16h55",
+        "Groupe": "Mister SAS",
+        "Style": "Hip-hop",
+        "Lien d'écoute": "https://www.youtube.com/user/MrSas545",
+        "Description": "D’origine sénégalais, Mister SAS a débuté la musique dans son pays natal, avant d’arriver en France en 2008 pour les études. Il travail en étroite collaboration avec l’association Les Sons D’la Rue."
+    },
+    {
+        "Scene": "scène Jeunes Talents",
+        "Lieu": "Place de l'Etal",
+        "Début": "16h55",
+        "Fin": "17h50",
+        "Groupe": "Fresh Powders",
+        "Style": "rock / blues",
+        "Lien d'écoute": "https://soundcloud.com/fresh-powders",
+        "Description": "Ce groupe aux influences blues et celtiques est composé de cinq membres : Matthieu au chant et à la guitare, Pierre à la guitare, Alexandre à la batterie, Guillaume à la basse et Chadouard à la guitare rythmique."
+    },
+    {
+        "Scene": "scène Jeunes Talents",
+        "Lieu": "Place de l'Etal",
+        "Début": "17h50",
+        "Fin": "18h45",
+        "Groupe": "Black Sun",
+        "Style": "pop / rock",
+        "Lien d'écoute": "https://www.youtube.com/watch?v=uhxO-jcdJaw",
+        "Description": "Le groupe Black Sun, formé en 2010 à Strasbourg, officie dans une veine funk-rock-pop.La polyvalence musicale des membres du groupe, ainsi que leur évidente complicité constituent de solides atouts dans la composition commune des musiques. "
+    },
+    {
+        "Scene": "scène Jeunes Talents",
+        "Lieu": "Place de l'Etal",
+        "Début": "18h45",
+        "Fin": "19h40",
+        "Groupe": "Private Haze",
+        "Style": "pop / rock",
+        "Lien d'écoute": "https://soundcloud.com/privatehaze/",
+        "Description": "Fortement influence par l’esprit fiévreux du post punk de la fin des années 70, Private Haze revendique un son à la fois puissant et mélancolique, parfois brutal, parfois plus intime, mais toujours sincère."
+    },
+    {
+        "Scene": "scène Jeunes Talents",
+        "Lieu": "Place de l'Etal",
+        "Début": "19h40",
+        "Fin": "20h35",
+        "Groupe": "Caesaria",
+        "Style": "rock / funk",
+        "Lien d'écoute": "https://soundcloud.com/caesaria/french-hook",
+        "Description": "Caesaria est une alchimie mêlant le groove du funk aux riffs puissants du rock anglo-saxon sur lesquels des chœurs harmonises viennent se superposer. Naviguant entre les genres, les époques et les univers, a crée son identité."
+    },
+    {
+        "Scene": "scène Jeunes Talents",
+        "Lieu": "Place de l'Etal",
+        "Début": "20h35",
+        "Fin": "21h30",
+        "Groupe": "Sombonaria",
+        "Style": "electro rock",
+        "Lien d'écoute": "http://sombonoria.bandcamp.com/",
+        "Description": "Formés dans quatre univers très différents, les musiciens de sombonoria se retrouvent dans des morceaux d'électro-rock énergiques aux accents étrangers. Les quelques histoires racontées ça-et-là résonnent sur un son d'usine et de machines, de distorsions crépitantes et de basses absorbantes."
+    },
+    {
+        "Scene": "scène Jeunes Talents",
+        "Lieu": "Place de l'Etal",
+        "Début": "21h30",
+        "Fin": "22h25",
+        "Groupe": "KWARX",
+        "Style": "pop / rock",
+        "Lien d'écoute": "http://www.reverbnation.com/kwarx",
+        "Description": "Cold Grunge : Terme musical apparu avec la formation du groupe à l’hiver 2011. Décrivant avec éloquence l’hystérie du comportement humain sous ses diverses formes et portée par une musique rock alternant des côtés planants et enragés dans des compositions déstructurées et minimalistes."
+    },
+    {
+        "Scene": "scène Jeunes Talents",
+        "Lieu": "Place de l'Etal",
+        "Début": "22h25",
+        "Fin": "23h20",
+        "Groupe": "Tamanoir",
+        "Style": "pop / rock",
+        "Lien d'écoute": "http://www.tamanoir.bandcamp.com",
+        "Description": "Tamanoir est un groupe de pop-rock strasbourgeois, qui s’est formé en 2013. Le groupe essaye de redonner une place au rock français dans le paysage musical d’aujourd’hui, en s’inspirant de la pop anglaise et du rock des années 70."
+    },
+    {
+        "Scene": "scène Jeunes Talents",
+        "Lieu": "Place de l'Etal",
+        "Début": "23h20",
+        "Fin": "00h15",
+        "Groupe": "Swillbelly",
+        "Style": "rock / pop",
+        "Lien d'écoute": "https://www.facebook.com/Swillbelly",
+        "Description": "Issus de diverses formations musicales avec, pour certains, de grosses expériences dans d’autres formations, les membres de Swillbelly se sont rencontrés courant 2013 et construisent leur univers au fil des rencontres."
+    },
+    {
+        "Scene": "scène Jeunes Talents",
+        "Lieu": "Place de l'Etal",
+        "Début": "00h15",
+        "Fin": "01h00",
+        "Groupe": "The Grand Bay",
+        "Style": "pop / alternative",
+        "Lien d'écoute": "https://soundcloud.com/thegrandbay",
+        "Description": "Groupe de minimal pop fraichement crée, ce trio composé de Lukass au chant et à la guitare, Jacques à la guitare et Rajen à la basse, propose des compositions originales. "
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place Gutenberg",
+        "Début": "16h00",
+        "Fin": "16h55",
+        "Groupe": "Ambiance Bossa",
+        "Style": "Bossa Nova",
+        "Lien d'écoute": "http://ambiancebossa.fr.nf/",
+        "Description": "Le groupe propose un répertoire de chansons connues déclinées en Bossa Nova, un style directement venu du Brésil à la fin des années 50.  Embarquez avec Mickael au chant et au piano, Lolo à la guitare et Phil à la batterie, pour un voyage vers le Brésil ! "
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place Gutenberg",
+        "Début": "16h55",
+        "Fin": "17h50",
+        "Groupe": "Lukass Edgar",
+        "Style": "pop alternativ",
+        "Lien d'écoute": "https://soundcloud.com/lukass-edgar",
+        "Description": "Lukass Edgar est un auteur-compositeur passionné par la musique. Il compose principalement de la pop minimal et de la pop alternative."
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place Gutenberg",
+        "Début": "17h50",
+        "Fin": "18h45",
+        "Groupe": "Joy & Glory",
+        "Style": "folk / pop",
+        "Lien d'écoute": "http://joyandglory.bandcamp.com/",
+        "Description": "Au détour de ballades folk et de quelques lignes pop, Joy & Glory vous emmène loin dans le rêve et le songe. C’est sur scène que les morceaux vivent réellement, laissant place à une belle émotion, intimiste et véritable."
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place Gutenberg",
+        "Début": "18h45",
+        "Fin": "19h40",
+        "Groupe": "Selia",
+        "Style": "R&B/soul / pop",
+        "Lien d'écoute": "https://soundcloud.com/seliamusic/sets/selia/s-wazMR",
+        "Description": "D’inspiration soul et motown, et teinté de pop et de rap, l’univers de Selia se veut éclectique, plein de peps et de douceur à la fois."
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place Gutenberg",
+        "Début": "19h40",
+        "Fin": "20h35",
+        "Groupe": "Alice Roger",
+        "Style": "(invité de Dresde)",
+        "Lien d'écoute": "http://www.aliceroger.de/",
+        "Description": "Combinant des éléments entre le punk et le rock, mais aussi entre la pop et le blues, ce groupe allemand sait comment faire danser le public avec des chansons pleines d’énergies."
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place Gutenberg",
+        "Début": "20h35",
+        "Fin": "21h30",
+        "Groupe": "Shaka'n Roots",
+        "Style": "Reggae / musique du monde",
+        "Lien d'écoute": "http://www.zikpot.fr/artiste-Dgereason",
+        "Description": "Artiste autodidacte, il découvre le reggae dès son enfance"
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place Gutenberg",
+        "Début": "21h30",
+        "Fin": "22h25",
+        "Groupe": "Caterva",
+        "Style": "electro / hip-hop",
+        "Lien d'écoute": "https://soundcloud.com/caterva",
+        "Description": "Caterva c’est un live et un album à la croisée des chemins entre le Sud et le Nord, au cœur même de la Global Bass. "
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place Gutenberg",
+        "Début": "22h25",
+        "Fin": "23h20",
+        "Groupe": "Karejka",
+        "Style": "pop / electro",
+        "Lien d'écoute": "http://karejka.bandcamp.com/",
+        "Description": "C’est au son d’une beat techno pop implacable et entêtante que Karejka vocalise ses textes existentiels et incisifs. Seul en scène, l’insaisissable Karejka livre son étrange présence à un live intense et entraînant, où fusionnent machines, voix et mouvements."
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place Gutenberg",
+        "Début": "23h20",
+        "Fin": "00h15",
+        "Groupe": "Clockwise & Skeyes",
+        "Style": "DJ / electro",
+        "Lien d'écoute": "https://soundcloud.com/djclockwise",
+        "Description": "A 16 ans, Clockwise, jeune DJ résidant à Strasbourg, n'est pas vraiment ce qu'on peut appeler un David Guetta ou un Afrojack mais en tout cas même sans instrument ou matériel de DJ, Mohamed fait de son mieux pour révolutionner son style électro."
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place Gutenberg",
+        "Début": "00h15",
+        "Fin": "01h00",
+        "Groupe": "Clé de Soul",
+        "Style": "soul",
+        "Lien d'écoute": "",
+        "Description": "Clé de soul, c’est deux univers radicalement opposés, très et puissant pour l’un, très soul, doux et mélancolique pour l’autre. Ce mélange des styles offre un univers groovy et intimiste tout en acoustique, suave, mélancolique mais puissant comme un Roc."
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place du Château",
+        "Début": "16h00",
+        "Fin": "18h45",
+        "Groupe": "Ecoles de musique",
+        "Style": "",
+        "Lien d'écoute": "",
+        "Description": "Les écoles de musiques de Strasbourg s'associent à la fête de la musique. Retouvez les Sonneurs de cornemuses école de musique de Cronenbourg, le centre musical de la Krutenau et l'Atelier de jazz de Pôle Sud."
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place du Château",
+        "Début": "18h45",
+        "Fin": "19h40",
+        "Groupe": "MUSES",
+        "Style": "polyphonie",
+        "Lien d'écoute": "http://myspace.com/muses.creaphony",
+        "Description": "Muses propose au grand public un répertoire de polyphonies a capella issues des périodes médiévale, renaissance et du fond traditionnel des régions françaises et au-delà."
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place du Château",
+        "Début": "19h40",
+        "Fin": "20h35",
+        "Groupe": "Petites gens",
+        "Style": "reggae français",
+        "Lien d'écoute": "https://www.youtube.com/watch?v=Q_1U8VUuKOw",
+        "Description": "Petites Gens est un jeunes groupe composé d’un guitariste et d’un chanteur, aux influences diverses, proposant un voyage musical plein d’humour."
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place du Château",
+        "Début": "20h35",
+        "Fin": "21h30",
+        "Groupe": "CTBAB ( Cary T. Brown & Aurélien Boilleau)",
+        "Style": "alternative / folk",
+        "Lien d'écoute": "http://www.ctbab.fr/booking/3",
+        "Description": "Ce duo franco-américain d’une complicité rare, nous propose un voyage humain et sincère loin des courses effrénées … A travers un saut transatlantique des grands espaces aux réalités urbaines, laissez vous porter par deux chanteurs qui se répondent antre folk US et rock européen."
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place du Château",
+        "Début": "21h30",
+        "Fin": "22h25",
+        "Groupe": "John Efka",
+        "Style": "chanson / pop",
+        "Lien d'écoute": "http://johnefka.com/music/",
+        "Description": "John Efka est un être lunaire avec les pieds bien ancrés sur terre qui écrit des textes qu’il met en rythme avec sa guitare. Ses chansons nourris d’instants de vie joyeux, tristes, anodins voir excentriques nous transportent et nous intriguent."
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place du Château",
+        "Début": "22h25",
+        "Fin": "23h20",
+        "Groupe": "Olivier",
+        "Style": "chanson",
+        "Lien d'écoute": "https://soundcloud.com/olivier-musica",
+        "Description": "Avec sa guitare acoustique il touche à l’intime et dévoile son univers rythmé de swing et de ballades mélancoliques. Quand il s’agit d’exulter l’amour, son texte se pose doucement au creux d’une oreille, quand il s’agit de décortiquer l’humain, il livre des mots plus abrupts."
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place du Château",
+        "Début": "23h20",
+        "Fin": "00h15",
+        "Groupe": "Les Raisins Secs",
+        "Style": "chanson / musique du monde",
+        "Lien d'écoute": "http://www.les-raisins-secs.com/",
+        "Description": "Cet ensemble acoustique strasbourgeois vous emmène dans un voyage tout en chanson où s’entremêlent cordes et bois, jazz, swing et Flamenco. Une musique métisse, au service des textes tantôt touchants, tantôt grinçants où le second degré se manie comme une deuxième nature."
+    },
+    {
+        "Scene": "scène Découverte",
+        "Lieu": "Place du Château",
+        "Début": "00h15",
+        "Fin": "01h00",
+        "Groupe": "Orchestra Minima Mysticanza",
+        "Style": "musique du monde / jazz",
+        "Lien d'écoute": "http://www.myspace.com/mysticanza",
+        "Description": "Le trio acoustique va vous faire redécouvrir les racines de la musique méditerranéenne et européenne, point de départ pour un voyage à travers le temps, les lieux et les cultures lointaines. "
+    },
+    {
+        "Scene": "Scène Rock",
+        "Lieu": "Place de la Bourse",
+        "Début": "16h00",
+        "Fin": "16h55",
+        "Groupe": "Oslo",
+        "Style": "pop rock",
+        "Lien d'écoute": "https://soundcloud.com/epapix/sets/oslo",
+        "Description": "Rock, sonorité forte et puissante qui prend au tripes, qui ne peut pas laisser indifférent. Une vraie alchimie entre ces 4 comparses : quand la musique s’arrête, qu’une seule envie, que cela recommence !"
+    },
+    {
+        "Scene": "Scène Rock",
+        "Lieu": "Place de la Bourse",
+        "Début": "16h55",
+        "Fin": "17h50",
+        "Groupe": "Tedmo Festival",
+        "Style": "rock swing",
+        "Lien d'écoute": "http://www.black-sun-music.com/",
+        "Description": "Fusion explosive entre rock et swing, l’univers particulier de Tedmo Festival s’exprime par un fulminant métissage d’influences. Bien que son étrange nom puise son inspiration dans la culture himalayenne, le groupe a su s’affirmer par son live à la fois festif et énervé."
+    },
+    {
+        "Scene": "Scène Rock",
+        "Lieu": "Place de la Bourse",
+        "Début": "17h50",
+        "Fin": "18h45",
+        "Groupe": "The Blue Bumblebees Band",
+        "Style": "rockabilly",
+        "Lien d'écoute": "http://www.blue-bumblebees.fr/",
+        "Description": "Un groupe qui réunit quatre générations de bluesmen unis sur une même scène pour retracer, l’espace d’un concert, l’histoire du blues, du rockabilly, de la bluegrass et du boogie à travers les âges. "
+    },
+    {
+        "Scene": "Scène Rock",
+        "Lieu": "Place de la Bourse",
+        "Début": "18h45",
+        "Fin": "19h40",
+        "Groupe": "Open Seas",
+        "Style": "pop rock",
+        "Lien d'écoute": "https://openseastheband.bandpage.com/",
+        "Description": "Le groupe a été formé par deux amis; David et João, tous deux chanteurs-guitaristes. Ensemble, ils ressentent le besoin d’explorer les sonorités pop-rock aux influences diverses, tout en conservant un seul fil conducteur, la mélodie !"
+    },
+    {
+        "Scene": "Scène Rock",
+        "Lieu": "Place de la Bourse",
+        "Début": "19h40",
+        "Fin": "20h35",
+        "Groupe": "Facing Stanley",
+        "Style": "Métal",
+        "Lien d'écoute": "https://soundcloud.com/facing-stanley/sets/first-ep",
+        "Description": "Facing Stanley propose un rock aux limites du genre. Ce quator énervé distille une musique sans concession, organique et directe. De l’énergie en un torrent de décibels, c’est un décibel, c’est un ensemble compact aux structures solides que propose le groupe."
+    },
+    {
+        "Scene": "Scène Rock",
+        "Lieu": "Place de la Bourse",
+        "Début": "20h35",
+        "Fin": "21h30",
+        "Groupe": "Nozu",
+        "Style": "pop rock",
+        "Lien d'écoute": "https://www.youtube.com/user/MusiqueNoSu",
+        "Description": "Ces cinq musiciens se sont regroupés autour d’une passion commune : la musique vivante. C’est ainsi qu’ils se produisent en public dans un répertoire pop/rock international et chanson française."
+    },
+    {
+        "Scene": "Scène Rock",
+        "Lieu": "Place de la Bourse",
+        "Début": "21h30",
+        "Fin": "22h25",
+        "Groupe": "HIGH VOLTURES",
+        "Style": "rock ",
+        "Lien d'écoute": "http://www.highvoltures.com/#!music/c2516",
+        "Description": "High Voltures prend ses marques dans un univers où se mêlent dynamisme, intensité et tension électrique. Du rock tranchant rythmé par les émotions, du calme à la tempête. Mélodies percutantes et paroles sombres : voilà ce qui définit ces quatre « voltures »."
+    },
+    {
+        "Scene": "Scène Rock",
+        "Lieu": "Place de la Bourse",
+        "Début": "22h25",
+        "Fin": "23h20",
+        "Groupe": "Funkindustry",
+        "Style": "rock / funk",
+        "Lien d'écoute": "https://www.youtube.com/user/Funkindustry",
+        "Description": "Une touche de soul, de bons riffs disco rétro et des cuivres très seventies, Funkindustry fait revivre les grandes heures de George Clinton version Funkadelic, puisant sans ménagement dans le groove de Maceo Parker et de Jamiroquai façon Space Cowboy."
+    },
+    {
+        "Scene": "Scène Rock",
+        "Lieu": "Place de la Bourse",
+        "Début": "23h20",
+        "Fin": "00h15",
+        "Groupe": "Gozo Quark Tree",
+        "Style": "rock alternative",
+        "Lien d'écoute": "https://www.youtube.com/watch?v=Ls879osicII",
+        "Description": "Gozo Quark Tree est une construction sonore collective où chaque musicien peut s’exprimer librement, avec en ligne de mire la nuance, l’épure ou au contraire, la complexité et l’énergie."
+    },
+    {
+        "Scene": "Scène Rock",
+        "Lieu": "Place de la Bourse",
+        "Début": "00h15",
+        "Fin": "01h00",
+        "Groupe": "The One armed man",
+        "Style": "rock / blues",
+        "Lien d'écoute": "http://theonearmedman.bandcamp.com/",
+        "Description": "Ils disent s'appeler The One Armed Man pour leur côté gauche, maladroit, un nom supposé pointer les faiblesses de l'humain, sa sensibilité. On a envie de leur dire foutaises ! tant les quatre compères savent dompter leurs instruments et parviennent à nous transporter à l'autre bout du monde. "
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "17h30",
+        "Fin": "18h00",
+        "Groupe": "DJ'S ² MC Baya",
+        "Style": "",
+        "Lien d'écoute": "",
+        "Description": "La scène CULTURE URBAINE, sur le parvis de la médiathèque André Malraux, raviera les amateurs de hip-hop, rap, slam, ragga, dancehall, beat-box et électro."
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "18h00",
+        "Fin": "18h30",
+        "Groupe": "Show No Limit + Artemis + DJ Timal",
+        "Style": "",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "18h30",
+        "Fin": "18h55",
+        "Groupe": "DJ Black Beat",
+        "Style": "Rap",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "19h00",
+        "Fin": "19h25",
+        "Groupe": "Black Wanted",
+        "Style": "Rap",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "19h30",
+        "Fin": "20h00",
+        "Groupe": "DJ",
+        "Style": "DJ",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "20h00",
+        "Fin": "20h25",
+        "Groupe": "Dahod Music",
+        "Style": "R&B",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "20h30",
+        "Fin": "20h55",
+        "Groupe": "Babay",
+        "Style": "Reggae",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "20h55",
+        "Fin": "21h00",
+        "Groupe": "DJ",
+        "Style": "DJ",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "21h00",
+        "Fin": "21h25",
+        "Groupe": "La Chronik",
+        "Style": "Rap",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "21h30",
+        "Fin": "21h55",
+        "Groupe": "New Soul Contest",
+        "Style": "R&B",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "21h55",
+        "Fin": "22h00",
+        "Groupe": "DJ",
+        "Style": "DJ",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "22h00",
+        "Fin": "22h25",
+        "Groupe": "Lydia D",
+        "Style": "",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "22h25",
+        "Fin": "22h30",
+        "Groupe": "Danse HH",
+        "Style": "hip-hop",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "22h30",
+        "Fin": "22h55",
+        "Groupe": "TomK",
+        "Style": "Rap",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "22h55",
+        "Fin": "23h00",
+        "Groupe": "DJ + danseurs NL",
+        "Style": "Hip-hop",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "23h00",
+        "Fin": "23h20",
+        "Groupe": "SMR",
+        "Style": "",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Culture Urbaine",
+        "Lieu": "Parvis médiathèque André Malraux",
+        "Début": "23h30",
+        "Fin": "23h55",
+        "Groupe": "EKLIPS",
+        "Style": "DJ",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "Scène Classique ",
+        "Lieu": "Parc de la Citadelle",
+        "Début": "19h00",
+        "Fin": "21h00",
+        "Groupe": "Ensemble musicaux de l'ARES",
+        "Style": "",
+        "Lien d'écoute": "",
+        "Description": "les élèves de l'école de musique de l'ARES présentent leurs travaux balayant différents aspects de la musique classique. chorales, musique de chambre, ensemble de guitares, musique ancienne ou baroque…"
+    },
+    {
+        "Scene": "Scène Classique ",
+        "Lieu": "Parc de la Citadelle",
+        "Début": "21h00",
+        "Fin": "22h00",
+        "Groupe": "Ensemble le Masque",
+        "Style": "Instrumental",
+        "Lien d'écoute": "",
+        "Description": "Au programme des airs de Morgana, extraits de l’opéra « Alcina », des airs allemands pleins de charme mélodique et des pièces instrumentales toujours expressives et virtuoses."
+    },
+    {
+        "Scene": "Scène Classique ",
+        "Lieu": "Parc de la Citadelle",
+        "Début": "22h00",
+        "Fin": "23h00",
+        "Groupe": "Atout Lyrique",
+        "Style": "Cabaret lyrique",
+        "Lien d'écoute": "",
+        "Description": "La nouvelle création d’Atout lyrique, allie danse hip hop et chant lyrique. Danseurs, chanteurs et comédiens, les interprètes nous offre un voyage au sein d’une maison close dans laquelle de nombreux personnages se côtoient où d’autres se rencontrent."
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Broglie - METEOR'HITS",
+        "Début": "17h15",
+        "Fin": "18h00",
+        "Groupe": "METEOR-HITS",
+        "Style": "karaoké pour enfants",
+        "Lien d'écoute": "http://www.meteorhits.org/presentation-groupe/aboutprestations",
+        "Description": "Les Meteor-Hit's vous préparent une fête de la musique aux petits oignons! De 17h a 01h30 donner de la voix avec un vrai groupe derrière vous qui enchaînera plus de 200 titres parmi les plus connus et les plus récents, tout au Long de la journée. Seul mot d'ordre : vous êtes la star !\nEt pour que la fête soit encore plus forte ils ont invité Eve-r, les Fat badgers, Jewly et les Bredelers à se joindre à eux pour proposer une journée musicale festive et \"live\"."
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Broglie - METEOR'HITS",
+        "Début": "18h00",
+        "Fin": "18h30",
+        "Groupe": "EVE-R",
+        "Style": "indie pop",
+        "Lien d'écoute": " www.eve-r.com",
+        "Description": ""
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Broglie - METEOR'HITS",
+        "Début": "18h30",
+        "Fin": "19h00",
+        "Groupe": "Bredelers",
+        "Style": "electro funk",
+        "Lien d'écoute": "www.bredelers.com",
+        "Description": ""
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Broglie - METEOR'HITS",
+        "Début": "19h00",
+        "Fin": "20h00",
+        "Groupe": "METEOR-HITS",
+        "Style": "karaoké",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Broglie - METEOR'HITS",
+        "Début": "20h00",
+        "Fin": "20h30",
+        "Groupe": "Jewly",
+        "Style": "karaoké",
+        "Lien d'écoute": "www.jewlymusic.com",
+        "Description": ""
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Broglie - METEOR'HITS",
+        "Début": "20h30",
+        "Fin": "21h00",
+        "Groupe": "Fat Badgers",
+        "Style": "rock",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Broglie - METEOR'HITS",
+        "Début": "21h00",
+        "Fin": "22h00",
+        "Groupe": "METEOR-HITS",
+        "Style": "karaoké",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Broglie - METEOR'HITS",
+        "Début": "22h00",
+        "Fin": "22h30",
+        "Groupe": "EVE-R",
+        "Style": "indie pop",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Broglie - METEOR'HITS",
+        "Début": "22h30",
+        "Fin": "23h00",
+        "Groupe": "Jewly",
+        "Style": "rock",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Broglie - METEOR'HITS",
+        "Début": "23h00",
+        "Fin": "00h00",
+        "Groupe": "METEOR-HITS",
+        "Style": "karaoké",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Broglie - METEOR'HITS",
+        "Début": "00h00",
+        "Fin": "00h30",
+        "Groupe": "Bredelers",
+        "Style": "celti-punki-rock",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Broglie - METEOR'HITS",
+        "Début": "00h30",
+        "Fin": "01h00",
+        "Groupe": "Fat Badgers",
+        "Style": "electro funk",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Broglie",
+        "Début": "18h00",
+        "Fin": "01h00",
+        "Groupe": "Smile this sound ",
+        "Style": "électro",
+        "Lien d'écoute": "",
+        "Description": "Smile This Sound et le café de l'opéra présentent une soirée deep-house"
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place de Zurich",
+        "Début": "16h00",
+        "Fin": "01h00",
+        "Groupe": "T-matik",
+        "Style": "DJ",
+        "Lien d'écoute": "http://www.t-matik.fr/",
+        "Description": "retracez l'histoire en musique. T-Matik présente une retrospective actualisée de l'histoire. Des années 30 aux années 90, dansez aux sons du swing, rock, techno."
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place des Meuniers",
+        "Début": "18h00",
+        "Fin": "01h00",
+        "Groupe": "AND Crew",
+        "Style": "électro",
+        "Lien d'écoute": "www.adncrew.fr",
+        "Description": "ADN Crew transforme la place des Meuniers en dancefloor, pour tous les amateurs de musique électronique, de 3 à 77 ans."
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place d'Austerlitz",
+        "Début": "18h00",
+        "Fin": "01h00",
+        "Groupe": "Représentation du Mexique au conseil de l'Europe",
+        "Style": "Musique du monde",
+        "Lien d'écoute": "",
+        "Description": "concert de marimba, instrument traditionnel mexicain. "
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place d'Austerlitz",
+        "Début": "18h00",
+        "Fin": "01h00",
+        "Groupe": "Association Culturelle Russe",
+        "Style": "Musique du monde",
+        "Lien d'écoute": "",
+        "Description": "Découvrez la Russie à travers un programme basé sur les chansons et les danses traditionnelles."
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place d'Austerlitz",
+        "Début": "18h00",
+        "Fin": "01h00",
+        "Groupe": "La Maison Russe à Strasbourg",
+        "Style": "Musique du monde",
+        "Lien d'écoute": "",
+        "Description": ""
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place de l'Univesité",
+        "Début": "18h00",
+        "Fin": "01h00",
+        "Groupe": "ANTIPOD",
+        "Style": "Electro",
+        "Lien d'écoute": "",
+        "Description": "Le collectifs de DJ's et producteurs de musique électronique vous fera danser sur une programmation hip-hop, dub et drum n’ bass."
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Mathias Merian",
+        "Début": "18h00",
+        "Fin": "01h00",
+        "Groupe": "ART RHYTHMS",
+        "Style": "Electro",
+        "Lien d'écoute": "",
+        "Description": "L'association vous propose une programmation Techno House Minimal dans la lignée des pères fondateur de la musique électronique made in DETROIT."
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Parc de la Petite Orangerie",
+        "Début": "16h30",
+        "Fin": "21h00",
+        "Groupe": "Direction de proximité Robertsau conseil des XV",
+        "Style": "",
+        "Lien d'écoute": "",
+        "Description": "Retrouvez de 16h30 à 21h00 le centre d’éducation musical de la Robertsau , l’école de musique, ainsi que les Accordéons de l’Ill."
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Arnold",
+        "Début": "19h00",
+        "Fin": "22h00",
+        "Groupe": "Ateliers d'Eden",
+        "Style": "",
+        "Lien d'écoute": "",
+        "Description": "l'association les Ateliers d'Eden présente un programme musical familial et riche en notes ! "
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Rue de la Grande Boucherie",
+        "Début": "18h00",
+        "Fin": "01h00",
+        "Groupe": "COLDSTONE",
+        "Style": "rock",
+        "Lien d'écoute": "",
+        "Description": "Coldstone et compères reviennent avec un programme rock décoiffant ! "
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place St-Etienne",
+        "Début": "18h00",
+        "Fin": "21h00",
+        "Groupe": "Let's Go Zik",
+        "Style": "électro",
+        "Lien d'écoute": "http://www.letsgozik.org",
+        "Description": "découvrez les djs techno, trance, hand's up et hardstyle de Let's go Zik"
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place St-Etienne",
+        "Début": "21h00",
+        "Fin": "01h00",
+        "Groupe": "Longevity ",
+        "Style": "électro",
+        "Lien d'écoute": "http://longevity-festival.com/",
+        "Description": "Longevity Festival est un lieu de découverte accessible à tous. Les artistes invités sont issus de la scène électronique underground. "
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place St-Nicolas aux ondes",
+        "Début": "14h00",
+        "Fin": "00h00",
+        "Groupe": "Micro-ondes festival",
+        "Style": "",
+        "Lien d'écoute": "",
+        "Description": "A l'occasion de la fête de la musique, le festival Micro Onde présente : Serge G. Révolution, Pan, Vox Copuli, Atohm, Lenno, Call me Cherry, Cut, Nolosé, Inglorious Princess and the Bastards, Les Boycotteurs"
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Parc de Palais du Rhin",
+        "Début": "18h00",
+        "Fin": "01h00",
+        "Groupe": "Fossé des 13",
+        "Style": "",
+        "Lien d'écoute": "http://www.cscf13.org/",
+        "Description": "Le Fossé des Treize fête la musique sur une scène à ciel ouvert. Une programmation électique, des artistes, amateurs et professionnels, investiront les jardins du Palais du Rhin pour fêter la musique comme il se doit."
+    },
+    {
+        "Scene": "scène partenaire",
+        "Lieu": "Place Ste-Madeleine",
+        "Début": "18h00 ",
+        "Fin": "01h00",
+        "Groupe": "On the Road",
+        "Style": "Electro",
+        "Lien d'écoute": "",
+        "Description": "L'association On the Road vous présente : Yeah Girl, Ficus, Radio Sanchez, Zee Reach, Banana Split et Mister E."
+    }
+]
