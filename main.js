@@ -7,7 +7,11 @@ function addPoint(label, point) {
     var i, desc = '<h2>' + label + '</h2><ul>';
     for (i = 0; i < events.length; i += 1) {
         if (label === events[i].Lieu) {
-            desc += '<li title="' + events[i].Description + '"><b>' + events[i]['Début'] + ' - ' + events[i].Fin + '</b>&nbsp;: ';
+            desc += '<li';
+            if (events[i].Description) {
+                desc += ' title="' + events[i].Description + '"';
+            }
+            desc += '><b>' + events[i]['Début'] + ' - ' + events[i].Fin + '</b>&nbsp;: ';
             if (events[i]["Lien d'écoute"]) {
                 desc += '<a target="_blank" href="' + events[i]["Lien d'écoute"] + '">';
             }
